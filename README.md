@@ -79,14 +79,14 @@ Me chamo Juan Carlos Nery Dos Santos, tenho 20 anos e sou natural da Paraiba, At
 
 <img align="left"
     alt="GitHub Stats"
-    width="500" 
+    width="300" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JuanNerySantos&show_icons=true&theme=dracula&locale=pt-br" 
 />
 <img 
       align="left" 
       alt="Lengueges Stats" 
-      height="300" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanNerySantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
                     
